@@ -1,0 +1,5 @@
+Change Component Comment : Designator=C5 Old Comment=2.2uF New Comment=100nF
+Added Component: Designator=C7(C 0402)
+Added Pin To Net: NetName=3.3V Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Member To Class: ClassName=Sheet1 Member=Component C7 100nF
