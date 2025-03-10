@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND Pin=CON3-1
+Removed Pin From Net: NetName=external_trigger Pin=CON3-2
+Removed Pin From Net: NetName=UART_TX Pin=CON3-3
+Removed Pin From Net: NetName=UART_RX Pin=CON3-4
+Removed Member From Class: ClassName=Sheet1 Member=CON3
+Added Component: Designator=CON?(Goldpin 2.54 3P)
+Added Pin To Net: NetName=external_trigger Pin=CON?-1
+Added Pin To Net: NetName=UART_TX Pin=CON?-2
+Added Pin To Net: NetName=UART_RX Pin=CON?-3
+Added Member To Class: ClassName=Sheet1 Member=Component CON? 3 Pin

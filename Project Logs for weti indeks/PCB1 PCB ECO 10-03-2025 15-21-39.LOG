@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=SWDIO Pin=CON1-1
+Removed Pin From Net: NetName=SWCLK Pin=CON1-2
+Removed Pin From Net: NetName=NRST Pin=CON1-3
+Removed Pin From Net: NetName=GND Pin=CON1-4
+Removed Pin From Net: NetName=UART_RX Pin=CON3-1
+Removed Pin From Net: NetName=UART_TX Pin=CON3-2
+Removed Pin From Net: NetName=external_trigger Pin=CON3-3
+Removed Pin From Net: NetName=GND Pin=CON3-4
+Added Pin To Net: NetName=GND Pin=CON1-1
+Added Pin To Net: NetName=NRST Pin=CON1-2
+Added Pin To Net: NetName=SWCLK Pin=CON1-3
+Added Pin To Net: NetName=SWDIO Pin=CON1-4
+Added Pin To Net: NetName=GND Pin=CON3-1
+Added Pin To Net: NetName=external_trigger Pin=CON3-2
+Added Pin To Net: NetName=UART_TX Pin=CON3-3
+Added Pin To Net: NetName=UART_RX Pin=CON3-4

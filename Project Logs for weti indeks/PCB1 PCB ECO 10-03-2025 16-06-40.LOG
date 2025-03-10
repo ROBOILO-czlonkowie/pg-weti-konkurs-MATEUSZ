@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=comparator_enable Pin=IC2-6
+Removed Pin From Net: NetName=comparator_fb Pin=IC2-7
+Removed Pin From Net: NetName=external_trigger Pin=IC2-8
+Added Pin To Net: NetName=comparator_enable Pin=IC2-5
+Added Pin To Net: NetName=comparator_fb Pin=IC2-6
+Added Pin To Net: NetName=external_trigger Pin=IC2-7

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=3.3V Pin=CON2-2
+Removed Pin From Net: NetName=voltage_input Pin=CON2-3
+Added Pin To Net: NetName=voltage_input Pin=CON2-2
+Added Pin To Net: NetName=3.3V Pin=CON2-3
