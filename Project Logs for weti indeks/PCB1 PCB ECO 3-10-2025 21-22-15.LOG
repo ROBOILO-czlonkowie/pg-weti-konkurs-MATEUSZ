@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=comparator_fb Pin=IC2-9
+Added Pin To Net: NetName=comparator_fb Pin=IC2-8

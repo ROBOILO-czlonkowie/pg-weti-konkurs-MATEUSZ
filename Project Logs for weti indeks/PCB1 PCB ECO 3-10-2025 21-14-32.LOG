@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=comparator_fb Pin=IC2-5
+Added Pin To Net: NetName=comparator_fb Pin=IC2-9
+Added Pin To Net: NetName=NetIC2_5 Pin=IC2-5
+Added Pin To Net: NetName=NetIC2_5 Pin=R2-1
+Added Net: Name=NetIC2_5
